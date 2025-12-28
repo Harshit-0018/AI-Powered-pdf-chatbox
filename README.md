@@ -53,9 +53,7 @@ streamlit run app.py
 - Legal & research assistants
 
 ## 👤 Author
-**Harshit Singh**  
-B.Tech Mechanical Engineering, NIT Calicut  
-AI Minor – IIT Ropar  
+**Harshit Singh**    
 
 ---
 ⭐ If you like this project, give it a star!
