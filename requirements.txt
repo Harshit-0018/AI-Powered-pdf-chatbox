@@ -1,7 +1,7 @@
 streamlit
 langchain
 openai
+pypdf
 faiss-cpu
-sentence-transformers
-huggingface-hub
+tiktoken
 python-dotenv
