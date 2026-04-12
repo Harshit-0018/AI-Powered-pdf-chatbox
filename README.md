@@ -55,5 +55,3 @@ streamlit run app.py
 ## 👤 Author
 **Harshit Singh**    
 
----
-⭐ 
